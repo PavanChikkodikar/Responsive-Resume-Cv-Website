@@ -1,6 +1,9 @@
 /*===== GOOGLE FONTS =====*/
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap');
 
+/* *{
+  font-family:var(--body-font);
+} */
 /*===== VARIABLES CSS =====*/
 :root {
   --header-height: 3rem;
@@ -547,6 +550,8 @@ img{
   visibility: visible;
   bottom: 5rem;
 }
+
+
 /*========== MEDIA QUERIES ==========*/
 /* For small devices, menu two columns */
 @media  screen and (max-width:320px){
