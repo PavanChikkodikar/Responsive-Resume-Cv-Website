@@ -1,9 +1,7 @@
-/*===== GOOGLE FONTS =====*/
-/* @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap'); */
 
 *{
   font-family: "Times New Roman", Times, serif;
-  /* letter-spacing: 0.5; */
+
   
 }
 /*===== VARIABLES CSS =====*/
@@ -560,7 +558,7 @@ img{
 @media  screen and (max-width:320px){
   .nav__list{
     grid-template-columns: repeat(2,1fr);
-    /* gap: 1rem .5rem; */
+  
   }
 }
 
