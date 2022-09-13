@@ -92,7 +92,7 @@ function removeScale(){
 }
 
 /*==================== GENERATE PDF ====================*/ 
-// PDF generated area
+
 let areaCv = document.getElementById('area-cv')
 
 let resumeButton = document.getElementById('resume-button')
